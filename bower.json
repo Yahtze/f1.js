@@ -1,0 +1,13 @@
+{
+  "name": "f1.js",
+  "main": "f1.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Yahtze/f1.js",
+  "authors": [
+    "Matt Jones <mjones@liveops.com>"
+  ],
+  "description": "bower-fying f1",
+  "moduleType": [],
+  "license": "none",
+  "private": true
+}
